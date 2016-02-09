@@ -1,0 +1,5 @@
+.idea/*
+apps/backend/cache/views/*.php
+apps/backend/cache/models/*.php
+apps/frontend/cache/views/*.php
+apps/frontend/cache/models/*.php
